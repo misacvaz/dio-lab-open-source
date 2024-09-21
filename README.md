@@ -4,9 +4,6 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-## O MEO README
-
-[MISACVAZ.md](https://github.com/misacvaz/dio-lab-open-source/blob/main/community/misacvaz.md)
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
@@ -94,6 +91,12 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
+
+
+## O MEO README DE CONTRIBUIÇÃO:
+
+[MISACVAZ.md](https://github.com/misacvaz/dio-lab-open-source/blob/main/community/misacvaz.md)
+
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
